@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\bin\Debug\net6.0\RNET104FirstConsoleApp.exe
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\bin\Debug\net6.0\RNET104FirstConsoleApp.deps.json
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\bin\Debug\net6.0\RNET104FirstConsoleApp.runtimeconfig.json
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\bin\Debug\net6.0\RNET104FirstConsoleApp.dll
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\bin\Debug\net6.0\RNET104FirstConsoleApp.pdb
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\obj\Debug\net6.0\RNET104FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\obj\Debug\net6.0\RNET104FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\obj\Debug\net6.0\RNET104FirstConsoleApp.AssemblyInfo.cs
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\obj\Debug\net6.0\RNET104FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\obj\Debug\net6.0\RNET104FirstConsoleApp.dll
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\obj\Debug\net6.0\refint\RNET104FirstConsoleApp.dll
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\obj\Debug\net6.0\RNET104FirstConsoleApp.pdb
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\obj\Debug\net6.0\RNET104FirstConsoleApp.genruntimeconfig.cache
+C:\Users\User\source\repos\RNET104FirstConsoleApp\RNET104FirstConsoleApp\obj\Debug\net6.0\ref\RNET104FirstConsoleApp.dll
