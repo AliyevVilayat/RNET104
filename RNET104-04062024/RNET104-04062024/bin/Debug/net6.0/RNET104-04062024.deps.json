@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RNET104-04062024/1.0.0": {
+        "runtime": {
+          "RNET104-04062024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RNET104-04062024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

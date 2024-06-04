@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104-04062024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98435F0D-32E0-4110-94BC-4D86FA2F7503}|HomeTask\\HomeTask.csproj|c:\\users\\user\\desktop\\codeacademy\\rnet104\\rnet104-forstudents\\rnet104-04062024\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98435F0D-32E0-4110-94BC-4D86FA2F7503}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94133030-7652-4756-AF0B-3206B1127F8C}|RNET104-04062024\\RNET104-04062024.csproj|c:\\users\\user\\desktop\\codeacademy\\rnet104\\rnet104-forstudents\\rnet104-04062024\\rnet104-04062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94133030-7652-4756-AF0B-3206B1127F8C}|RNET104-04062024\\RNET104-04062024.csproj|solutionrelative:rnet104-04062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98435F0D-32E0-4110-94BC-4D86FA2F7503}|HomeTask\\HomeTask.csproj|c:\\users\\user\\desktop\\codeacademy\\rnet104\\rnet104-forstudents\\rnet104-04062024\\hometask\\lasthometask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98435F0D-32E0-4110-94BC-4D86FA2F7503}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\lasthometask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94133030-7652-4756-AF0B-3206B1127F8C}|RNET104-04062024\\RNET104-04062024.csproj|c:\\users\\user\\desktop\\codeacademy\\rnet104\\rnet104-forstudents\\rnet104-04062024\\rnet104-04062024\\refandout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94133030-7652-4756-AF0B-3206B1127F8C}|RNET104-04062024\\RNET104-04062024.csproj|solutionrelative:rnet104-04062024\\refandout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefAndOut.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104-04062024\\RNET104-04062024\\RefAndOut.cs",
+              "RelativeDocumentMoniker": "RNET104-04062024\\RefAndOut.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104-04062024\\RNET104-04062024\\RefAndOut.cs",
+              "RelativeToolTip": "RNET104-04062024\\RefAndOut.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:17:22.666Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LastHomeTask.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104-04062024\\HomeTask\\LastHomeTask.cs",
+              "RelativeDocumentMoniker": "HomeTask\\LastHomeTask.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104-04062024\\HomeTask\\LastHomeTask.cs",
+              "RelativeToolTip": "HomeTask\\LastHomeTask.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:05.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104-04062024\\HomeTask\\Program.cs",
+              "RelativeDocumentMoniker": "HomeTask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104-04062024\\HomeTask\\Program.cs",
+              "RelativeToolTip": "HomeTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:23:51.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104-04062024\\RNET104-04062024\\Program.cs",
+              "RelativeDocumentMoniker": "RNET104-04062024\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104-04062024\\RNET104-04062024\\Program.cs",
+              "RelativeToolTip": "RNET104-04062024\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:08:13.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
