@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\bin\Debug\net6.0\RNET104-06062024.exe
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\bin\Debug\net6.0\RNET104-06062024.deps.json
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\bin\Debug\net6.0\RNET104-06062024.runtimeconfig.json
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\bin\Debug\net6.0\RNET104-06062024.dll
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\bin\Debug\net6.0\RNET104-06062024.pdb
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\obj\Debug\net6.0\RNET104-06062024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\obj\Debug\net6.0\RNET104-06062024.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\obj\Debug\net6.0\RNET104-06062024.AssemblyInfo.cs
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\obj\Debug\net6.0\RNET104-06062024.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\obj\Debug\net6.0\RNET104-06062024.dll
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\obj\Debug\net6.0\refint\RNET104-06062024.dll
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\obj\Debug\net6.0\RNET104-06062024.pdb
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\obj\Debug\net6.0\RNET104-06062024.genruntimeconfig.cache
+C:\Users\User\source\repos\RNET104-06062024\RNET104-06062024\obj\Debug\net6.0\ref\RNET104-06062024.dll
