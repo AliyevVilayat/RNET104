@@ -14,7 +14,7 @@ NOT: Id bizim tərəfimizdən daxil edilməməli, hər dəfə Employee'dan miras
  double CalculateSalary() - Hər bir object üçün aldığı maaşı hesablamalıdır.
  void DisplayDetails() - Hər bir object'in haqqındaki məlumatları ekrana çıxarılmalıdır.
 
-2. Employee Class'dan miras alan 2 class mövcud olmalıdır. HourlyEmployee və SalariedEmployee
+2. Employee Interface'dən miras alan 2 class mövcud olmalıdır. HourlyEmployee və SalariedEmployee
 
 3.1 HourlyEmployee
 
