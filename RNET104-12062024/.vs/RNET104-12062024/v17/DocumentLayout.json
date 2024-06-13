@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\RNET104-12062024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED6D207-49C3-4F94-84B0-1D6B014E9916}|RNET104-12062024\\RNET104-12062024.csproj|c:\\users\\user\\source\\repos\\rnet104-12062024\\rnet104-12062024\\sealedexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED6D207-49C3-4F94-84B0-1D6B014E9916}|RNET104-12062024\\RNET104-12062024.csproj|solutionrelative:rnet104-12062024\\sealedexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED6D207-49C3-4F94-84B0-1D6B014E9916}|RNET104-12062024\\RNET104-12062024.csproj|c:\\users\\user\\source\\repos\\rnet104-12062024\\rnet104-12062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED6D207-49C3-4F94-84B0-1D6B014E9916}|RNET104-12062024\\RNET104-12062024.csproj|solutionrelative:rnet104-12062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED6D207-49C3-4F94-84B0-1D6B014E9916}|RNET104-12062024\\RNET104-12062024.csproj|c:\\users\\user\\source\\repos\\rnet104-12062024\\rnet104-12062024\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED6D207-49C3-4F94-84B0-1D6B014E9916}|RNET104-12062024\\RNET104-12062024.csproj|solutionrelative:rnet104-12062024\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED6D207-49C3-4F94-84B0-1D6B014E9916}|RNET104-12062024\\RNET104-12062024.csproj|c:\\users\\user\\source\\repos\\rnet104-12062024\\rnet104-12062024\\regularclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED6D207-49C3-4F94-84B0-1D6B014E9916}|RNET104-12062024\\RNET104-12062024.csproj|solutionrelative:rnet104-12062024\\regularclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SealedExamples.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RNET104-12062024\\RNET104-12062024\\SealedExamples.cs",
+              "RelativeDocumentMoniker": "RNET104-12062024\\SealedExamples.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RNET104-12062024\\RNET104-12062024\\SealedExamples.cs",
+              "RelativeToolTip": "RNET104-12062024\\SealedExamples.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:44:39.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegularClass.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RNET104-12062024\\RNET104-12062024\\RegularClass.cs",
+              "RelativeDocumentMoniker": "RNET104-12062024\\RegularClass.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RNET104-12062024\\RNET104-12062024\\RegularClass.cs",
+              "RelativeToolTip": "RNET104-12062024\\RegularClass.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:35:06.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polymorphism.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RNET104-12062024\\RNET104-12062024\\Polymorphism.cs",
+              "RelativeDocumentMoniker": "RNET104-12062024\\Polymorphism.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RNET104-12062024\\RNET104-12062024\\Polymorphism.cs",
+              "RelativeToolTip": "RNET104-12062024\\Polymorphism.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:26:22.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RNET104-12062024\\RNET104-12062024\\Program.cs",
+              "RelativeDocumentMoniker": "RNET104-12062024\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RNET104-12062024\\RNET104-12062024\\Program.cs",
+              "RelativeToolTip": "RNET104-12062024\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:15:31.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
