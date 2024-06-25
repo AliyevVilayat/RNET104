@@ -1,0 +1,47 @@
+SQL istifadə edərək bir universitet məlumat bazası yaradılacaq. Bu bazada tələbələr, müəllimlər və kurslarla bağlı məlumatlar olacaq.
+
+Məlumat Bazası Strukturu
+--Tələbələr (Students)
+
+StudentID (INT, PRIMARY KEY)
+FirstName (NVARCHAR(50))
+LastName (NVARCHAR(50))
+BirthDate (DATE)
+Email (NVARCHAR(100))
+
+--Müəllimlər (Teachers)
+
+TeacherID (INT, PRIMARY KEY)
+FirstName (NVARCHAR(50))
+LastName (NVARCHAR(50))
+HireDate (DATE)
+Department (NVARCHAR(50))
+Email (NVARCHAR(100))
+
+--Kurslar (Courses)
+
+CourseID (INT, PRIMARY KEY)
+CourseName (NVARCHAR(100))
+Credits (INT)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TeacherID (INT, FOREIGN KEY REFERENCES Teachers(TeacherID))
+
+--Tələbə-Kurs (StudentCourses)
+
+StudentID (INT, FOREIGN KEY REFERENCES Students(StudentID))
+CourseID (INT, FOREIGN KEY REFERENCES Courses(CourseID))
+Grade (CHAR(2))
+PRIMARY KEY (StudentID, CourseID)
