@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\RNET104_09_07_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AD2087-DACE-4759-99E6-FFEE1C5674CF}|RNET104_09_07_2024\\RNET104_09_07_2024.csproj|c:\\users\\user\\source\\repos\\rnet104_09_07_2024\\rnet104_09_07_2024\\refout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AD2087-DACE-4759-99E6-FFEE1C5674CF}|RNET104_09_07_2024\\RNET104_09_07_2024.csproj|solutionrelative:rnet104_09_07_2024\\refout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AD2087-DACE-4759-99E6-FFEE1C5674CF}|RNET104_09_07_2024\\RNET104_09_07_2024.csproj|c:\\users\\user\\source\\repos\\rnet104_09_07_2024\\rnet104_09_07_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AD2087-DACE-4759-99E6-FFEE1C5674CF}|RNET104_09_07_2024\\RNET104_09_07_2024.csproj|solutionrelative:rnet104_09_07_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RNET104_09_07_2024\\RNET104_09_07_2024\\Program.cs",
+              "RelativeDocumentMoniker": "RNET104_09_07_2024\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RNET104_09_07_2024\\RNET104_09_07_2024\\Program.cs",
+              "RelativeToolTip": "RNET104_09_07_2024\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:15:20.679Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RefOut.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RNET104_09_07_2024\\RNET104_09_07_2024\\RefOut.cs",
+              "RelativeDocumentMoniker": "RNET104_09_07_2024\\RefOut.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RNET104_09_07_2024\\RNET104_09_07_2024\\RefOut.cs",
+              "RelativeToolTip": "RNET104_09_07_2024\\RefOut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:10:35.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
