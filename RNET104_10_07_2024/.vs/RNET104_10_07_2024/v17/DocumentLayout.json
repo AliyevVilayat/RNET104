@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\RNET104_10_07_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{025988AF-EB5A-4613-99F6-E837E0ABBAB8}|RNET104_10_07_2024\\RNET104_10_07_2024.csproj|c:\\users\\user\\source\\repos\\rnet104_10_07_2024\\rnet104_10_07_2024\\overload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025988AF-EB5A-4613-99F6-E837E0ABBAB8}|RNET104_10_07_2024\\RNET104_10_07_2024.csproj|solutionrelative:rnet104_10_07_2024\\overload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025988AF-EB5A-4613-99F6-E837E0ABBAB8}|RNET104_10_07_2024\\RNET104_10_07_2024.csproj|c:\\users\\user\\source\\repos\\rnet104_10_07_2024\\rnet104_10_07_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025988AF-EB5A-4613-99F6-E837E0ABBAB8}|RNET104_10_07_2024\\RNET104_10_07_2024.csproj|solutionrelative:rnet104_10_07_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025988AF-EB5A-4613-99F6-E837E0ABBAB8}|RNET104_10_07_2024\\RNET104_10_07_2024.csproj|c:\\users\\user\\source\\repos\\rnet104_10_07_2024\\rnet104_10_07_2024\\defautlvalueexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025988AF-EB5A-4613-99F6-E837E0ABBAB8}|RNET104_10_07_2024\\RNET104_10_07_2024.csproj|solutionrelative:rnet104_10_07_2024\\defautlvalueexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Overload.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RNET104_10_07_2024\\RNET104_10_07_2024\\Overload.cs",
+              "RelativeDocumentMoniker": "RNET104_10_07_2024\\Overload.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RNET104_10_07_2024\\RNET104_10_07_2024\\Overload.cs",
+              "RelativeToolTip": "RNET104_10_07_2024\\Overload.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:06:48.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RNET104_10_07_2024\\RNET104_10_07_2024\\Program.cs",
+              "RelativeDocumentMoniker": "RNET104_10_07_2024\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RNET104_10_07_2024\\RNET104_10_07_2024\\Program.cs",
+              "RelativeToolTip": "RNET104_10_07_2024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:04:15.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefautlValueExample.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RNET104_10_07_2024\\RNET104_10_07_2024\\DefautlValueExample.cs",
+              "RelativeDocumentMoniker": "RNET104_10_07_2024\\DefautlValueExample.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RNET104_10_07_2024\\RNET104_10_07_2024\\DefautlValueExample.cs",
+              "RelativeToolTip": "RNET104_10_07_2024\\DefautlValueExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:41:06.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
