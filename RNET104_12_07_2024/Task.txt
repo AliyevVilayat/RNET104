@@ -1,0 +1,48 @@
+Tapşırıq: Restoran sifariş sistemini yaratmaq üçün Dish, Category, Order, və Restaurant class'ları yaradın.
+
+Dish class'ın xüsusiyyətləri(fields or properties):
+Id 
+Name
+Price 
+Category (yeməyin kateqoriyası, Category class obyekti)
+
+Not: Id, Name və Price property'lər olmadan Dish class'dan instance alına bilməsin
+
+Dish class'ın davranışları(methods):
+
+Dish class'da, Category obyektinə görə axtarış edə bilən bir method yazın (məsələn, FindDishesByCategory).
+Not:Düşünürük ki, databasedən bizə List şəklində bütün yeməklər gəlir. Bu yeməkləri Category obyekti və ya Category Id vasitəsi ilə axtarış edək.
+
+List<Dish> obyekti üçün extension method yazın  (Sum).
+Not:Tətbiq olunan list daxilindəki yeməklərinin qiymətlərinin cəmini tapsın.
+------------------------------------------------------------------------------
+
+Category class'ın xüsusiyyətləri:
+Id 
+Name 
+Description (kateqoriyanın təsviri)
+Dishes (kateqoriyaya aid olan yeməklərin siyahısı)
+
+Not: Id və Name property'lər olmadan Category class'dan instance alına bilməsin
+----------------------------------------------------------------------------------
+
+Order class'ın xüsusiyyətləri:
+Id 
+Dishes 
+TotalAmount (sifarişin ümumi məbləği)
+
+Not: Id property olmadan Order class'dan instance alına bilməsin
+-----------------------------------------------------------------------------------
+
+Restaurant class'ın xüsusiyyətləri:
+Name 
+Address 
+Menu (restoranın menyusu, yəni Dish obyektlərinin siyahısı)
+Orders (verilən sifarişlərin siyahısı)
+
+Not: Name property olmadan Restaurant class'dan instance alına bilməsin
+
+Restaurant class'ın davranışları(methods):
+Restaurant class'da, Menuya yemək əlavə edən bir method yazın (məsələn, AddDishtoMenu or AddDish).
+Restaurant class'da, Sifarişlər listinə, sifariş əlavə edən bir method yazın (məsələn, PlaceOrder).
+Restaurant class'da, OrderId ilə sifarişlər listindən həmin Id'ə sahib Orderi(əgər varsa)return edən bir method yazın (məsələn, PlaceOrder).
