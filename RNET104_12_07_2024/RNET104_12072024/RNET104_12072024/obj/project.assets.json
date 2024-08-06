@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\RNET104_12072024\\RNET104_12072024\\RNET104_12072024.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104_12_07_2024\\RNET104_12072024\\RNET104_12072024\\RNET104_12072024.csproj",
       "projectName": "RNET104_12072024",
-      "projectPath": "C:\\Users\\User\\source\\repos\\RNET104_12072024\\RNET104_12072024\\RNET104_12072024.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104_12_07_2024\\RNET104_12072024\\RNET104_12072024\\RNET104_12072024.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\RNET104_12072024\\RNET104_12072024\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\RNET104\\RNET104-ForStudents\\RNET104_12_07_2024\\RNET104_12072024\\RNET104_12072024\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
